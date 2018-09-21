@@ -1,0 +1,7 @@
+Wazna kolejnosc!!!!!!!!!!!!!!!
+
+skrypty.sql
+widoki
+funkcje
+triggery
+procedury
